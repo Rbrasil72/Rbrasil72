@@ -11,8 +11,7 @@ In my github you can find some scripts and tools i developed and some old game p
 
 ## Roadmap:
 * **Studing linux systems & administration for the LFSC certification**
-*  Get the CJCA & CPTS Certifications
-*  Learn more about Web app hacking
+*  Get the CWES Certification
 * <ins>Be part of a red team</ins>
 
 ## Fun facts:
@@ -30,8 +29,11 @@ LFCS:
 https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/ - WAIT FOR SALE!
 https://www.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/learn/lecture/44434406#questions/22288729
 
-junior pentester (if CJCA gets to difficult)
+Junior pentester (if CJCA gets to difficult)
 https://tryhackme.com/path/outline/jrpenetrationtester
+
+CWES:
+https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-specialist
 
 CJCA:
 https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate
