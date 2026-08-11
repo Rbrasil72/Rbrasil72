@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rodrigo! A Full time IT Technician, part time Cybersecurity student based in Portugal.
+I'm Rodrigo! A full time IT Technician, part time Cybersecurity student based in Portugal.
 
 I love all things open source and thinkering with new and old tech. 
 
@@ -10,8 +10,7 @@ In my github you can find some scripts and tools i developed and some old game p
 
 
 ## Roadmap:
-* **Studing linux systems & administration for the LFSC certification**
-*  Get the CWES Certification
+* **Studing networking for the CCNA and linux systems for the LFSC**
 * <ins>Be part of a red team</ins>
 
 ## Fun facts:
@@ -21,25 +20,15 @@ In my github you can find some scripts and tools i developed and some old game p
 * I'm a volunteer firefigher 
 
 <!--
-Recursos:
+Resources:
+CCNA:
+https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/exams-and-training.html
+Jeremy IT Free Course
+https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
 
-https://www.reddit.com/r/hackthebox/comments/1lij691/earning_the_cpts_cbbh/
 
 LFCS:
 https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/ - WAIT FOR SALE!
 https://www.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/learn/lecture/44434406#questions/22288729
-
-Junior pentester (if CJCA gets to difficult)
-https://tryhackme.com/path/outline/jrpenetrationtester
-
-CWES:
-https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-specialist
-
-CJCA:
-https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate
-
-CPTS:
-https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/
-
 
 -->
