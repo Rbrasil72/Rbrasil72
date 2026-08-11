@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rodrigo! A full time IT Technician, part time Cybersecurity student based in Portugal.
+I'm Rodrigo! A full time IT Technician, part time Cybersecurity student based in the Azores.
 
 I love all things open source and thinkering with new and old tech. 
 
