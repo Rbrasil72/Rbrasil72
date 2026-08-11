@@ -9,9 +9,13 @@ I have a dedicated mini pc has a lab, where i do my studies about cybersecurity,
 In my github you can find some scripts and tools i developed and some old game projects from my school days.
 
 
-## Roadmap:
-* **Studing networking for the CCNA and linux systems for the LFSC**
-* <ins>Be part of a red team</ins>
+## Roadmap Right Now:
+* **Studing networking for the CCNA**
+* Be part of a NOC or network admin team
+* Study linux systems for the RHCSA
+
+## Ultimate Goal:
+* Be part of a red team!
 
 ## Fun facts:
 * I have 2 dogs
