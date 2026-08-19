@@ -2,7 +2,7 @@
 
 I'm Rodrigo! A full time IT Technician, tech reviver and part-time firefighter based in the Azores.
 
-I love all things tech related and learning about computers, be it new and old tech. I really like to give life to old tech, sometimes all a computer needs is a new part and it is good has new, just because it doesn't have the most recent CPU or GPU does not make it obsolete!
+I love all things tech related and learning about computers, be it new and old tech. I really like to give life to old tech, sometimes all a computer needs is a new part and it is good has new! Just because it doesn't have the most recent CPU or GPU does not make it obsolete.
 
 I have a dedicated mini PC has a home lab with ProxMox, where i have multiple linux VM's running, opnSense firewall and a rocky linux server with tailscale so i can SSH to my machines away from home.
 
